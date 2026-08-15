@@ -1,5 +1,7 @@
 # Classic to Pro Controller
 
+Disclaimer: This was built with Claude Sonnet 5 for those who are against the development of Homebrew with AI
+
 An [Aroma](https://aroma.foryour.cafe/)/[WUPS](https://github.com/wiiu-env/WiiUPluginSystem) plugin
 for the Wii U that makes a **Wii Classic Controller** (connected via a Wii Remote) report itself to
 games as a **Wii U Pro Controller** — for games that added Pro Controller support but never added
