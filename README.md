@@ -38,8 +38,10 @@ set `DEVKITPRO`, and run `make`.
 ## Installing (Assuming WiiU has Aroma Already)
 
 1. Copy `classic_to_pro.wps` to `sd:/wiiu/environments/aroma/plugins/`.
-2. Boot Aroma — it loads automatically for every title.
-3. Pair your Wii Remote + Classic Controller like you would a Pro Controller.
+2. Boot into Aroma
+3. Pair your Wii Remote + Classic Controller
+4. Use L + Down Dpad + Select to enter Plugin menu
+5. Navigate to "Classic to Pro Controller" and Enable!
 
 ## Using it
 
