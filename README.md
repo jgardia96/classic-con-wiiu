@@ -35,7 +35,7 @@ docker run --rm -v "$PWD":/project classic-to-pro-builder make
 Produces `classic_to_pro.wps` in the project root. For a native build, install the packages above,
 set `DEVKITPRO`, and run `make`.
 
-## Installing
+## Installing (Assuming WiiU has Aroma Already)
 
 1. Copy `classic_to_pro.wps` to `sd:/wiiu/environments/aroma/plugins/`.
 2. Boot Aroma — it loads automatically for every title.
